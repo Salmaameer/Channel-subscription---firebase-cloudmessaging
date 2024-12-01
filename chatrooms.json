@@ -1,0 +1,27 @@
+{
+  "chatRooms": {
+    "channel1": {
+      "messages": {
+        "message1": {
+          "userId": "user1",
+          "content": "Hello, everyone!",
+          "timestamp": 1700648400000
+        },
+        "message2": {
+          "userId": "user2",
+          "content": "Hi there!",
+          "timestamp": 1700648500000
+        }
+      }
+    },
+    "channel2": {
+      "messages": {
+        "message1": {
+          "userId": "user2",
+          "content": "Welcome to the Tech Channel.",
+          "timestamp": 1700648600000
+        }
+      }
+    }
+  }
+}

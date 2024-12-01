@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171071981164",
+    "project_id": "subscribe-channels",
+    "storage_bucket": "subscribe-channels.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171071981164:android:80df92c33ae1b4be603a49",
+        "android_client_info": {
+          "package_name": "com.example.channels_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqe1SzjgAnY2EMcidSuu6ixw8qmAj0IN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171071981164:android:ff2c45352d0170fa603a49",
+        "android_client_info": {
+          "package_name": "com.salma.subscribeChannels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqe1SzjgAnY2EMcidSuu6ixw8qmAj0IN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
